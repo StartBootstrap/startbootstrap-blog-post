@@ -1,2 +1,2 @@
-blog-post
+Start Bootstrap - Blog Post
 =========
