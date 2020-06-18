@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Blog Post Preview](https://startbootstrap.com/assets/img/templates/blog-post.jpg)](https://startbootstrap.github.io/startbootstrap-blog-post/)
+[![Blog Post Preview](https://startbootstrap.com/assets/img/screenshots/templates/blog-post.png)](https://startbootstrap.github.io/startbootstrap-blog-post/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-blog-post/)**
 
