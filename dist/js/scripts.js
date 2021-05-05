@@ -1,5 +1,5 @@
 /*!
-* Start Bootstrap - Blog Post v4.3.0 (https://startbootstrap.com/template/blog-post)
+* Start Bootstrap - Blog Post v5.0.0 (https://startbootstrap.com/template/blog-post)
 * Copyright 2013-2021 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-post/blob/master/LICENSE)
 */
