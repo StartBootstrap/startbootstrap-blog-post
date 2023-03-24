@@ -12,8 +12,6 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-blog-post/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-blog-post.svg)](https://www.npmjs.com/package/startbootstrap-blog-post)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-blog-post/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-blog-post)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-blog-post/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-blog-post?type=dev)
 
 ## Download and Installation
 
@@ -68,4 +66,4 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 ## Copyright and License
 
-Copyright 2013-2022 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-blog-post/blob/master/LICENSE) license.
+Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-blog-post/blob/master/LICENSE) license.
